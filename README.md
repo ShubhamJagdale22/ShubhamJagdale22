@@ -1,6 +1,8 @@
 ![logo](https://github.com/ShubhamJagdale22/ShubhamJagdale22/blob/main/GitHub%20Banner.png)
 <h1 align="center">👋 Hi, I'm <a href="https://www.linkedin.com/in/shubham-jagdale-5b2723207" target="_blank"> Shubham Jagdale </a></h1>
-<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Developer+%3A)" /> </h3>
+<h3 align="center"> <img src="https://readme-typing-svg.herokuapp.com?color=0357F7&lines=Full+Stack+Web+Developer+%3A)" /> </h3>
+<img align="right" alt="coding" width="400" src="https://user-images.githubusercontent.com/55389276/140866485-8fb1c876-9a8f-4d6a-98dc-08c4981eaf70.gif">
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ShubhamJagdale22&label=Profile%20views&color=0e75b6&style=flat" alt="ShubhamJagdale22" /> </p>
 
 - 🌱 Learning Never Stops 🚀
 
@@ -64,4 +66,13 @@
   <!-- <img alt="Vercel" src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/> -->
   <img alt="Netlify" src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </div><br/>
+<table>
+   <tr>
+    <td>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ShubhamJagdale22&show_icons=true&locale=en&theme=onedark" alt="ShubhamJagdale22" /></td>
+    <td><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ShubhamJagdale22&show_icons=true&locale=en&layout=compact&theme=onedark" alt="ShubhamJagdale22" /></td>
+   </tr>
+</table>
+ <div align="center">
+  <p><a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats-nine-olive.vercel.app?user=ShubhamJagdale22&theme=onedark&exclude_days=Sun" alt="GitHub Streak" /></a></p>
+</div>
 
